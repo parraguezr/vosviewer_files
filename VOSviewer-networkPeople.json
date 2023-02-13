@@ -1,0 +1,2633 @@
+{
+    "network": {
+        "items": [
+            {
+                "id": 153178,
+                "label": "Abigail Mackey",
+                "x": 0.1262863857006798,
+                "y": -0.24641775714467637,
+                "cluster": 5,
+                "weight": 91,
+                "score": 35.39560439560439
+            },
+            {
+                "id": 153179,
+                "label": "Alicia Lundby",
+                "x": -0.47431604869285215,
+                "y": -0.23371902571285416,
+                "cluster": 1,
+                "weight": 22,
+                "score": 84.00000000000001
+            },
+            {
+                "id": 153180,
+                "label": "Andreas Kjaer",
+                "x": 0.056557940257050944,
+                "y": -0.26263292659774423,
+                "cluster": 5,
+                "weight": 757,
+                "score": 22.2007926023778
+            },
+            {
+                "id": 153181,
+                "label": "Benjamin Jensen",
+                "x": 0.6519142347035061,
+                "y": -0.19821210552002755,
+                "cluster": 6,
+                "weight": 47,
+                "score": 59.21276595744682
+            },
+            {
+                "id": 153182,
+                "label": "Bente Merete Stallknecht",
+                "x": 0.23268566115847422,
+                "y": -0.12749037630658325,
+                "cluster": 2,
+                "weight": 132,
+                "score": 28.48484848484848
+            },
+            {
+                "id": 153183,
+                "label": "Bo Hjorth Bentzen",
+                "x": -0.5132859469410705,
+                "y": -0.21781038825763824,
+                "cluster": 1,
+                "weight": 67,
+                "score": 21.477611940298505
+            },
+            {
+                "id": 153184,
+                "label": "Bolette Hartmann",
+                "x": 0.5918783484364831,
+                "y": -0.37332565623194053,
+                "cluster": 7,
+                "weight": 294,
+                "score": 31.605442176870756
+            },
+            {
+                "id": 153185,
+                "label": "Carolyn Deacon",
+                "x": 0.5933899892497428,
+                "y": -0.4485960189719774,
+                "cluster": 7,
+                "weight": 204,
+                "score": 67.54901960784314
+            },
+            {
+                "id": 153186,
+                "label": "Cathrine Ørskov",
+                "x": 0.6294308525989435,
+                "y": -0.4048939485725099,
+                "cluster": 9,
+                "weight": 101,
+                "score": 77.6930693069307
+            },
+            {
+                "id": 153187,
+                "label": "Charlotte Mehlin Sorensen",
+                "x": -0.007781116870686709,
+                "y": -0.33836491853321377,
+                "cluster": 3,
+                "weight": 81,
+                "score": 12.827160493827162
+            },
+            {
+                "id": 153188,
+                "label": "Christina Christoffersen",
+                "x": -0.13252090590933624,
+                "y": -0.239618359814145,
+                "cluster": 3,
+                "weight": 68,
+                "score": 49.38235294117647
+            },
+            {
+                "id": 153189,
+                "label": "Christine Yu-Nung Chuang",
+                "x": -0.8163174925833933,
+                "y": 0.016142035799015488,
+                "cluster": 4,
+                "weight": 30,
+                "score": 26.166666666666664
+            },
+            {
+                "id": 153190,
+                "label": "Clara Prats",
+                "x": 0.3237451424607208,
+                "y": -0.1348094570475404,
+                "cluster": 2,
+                "weight": 47,
+                "score": 44.276595744680854
+            },
+            {
+                "id": 153191,
+                "label": "Clare Hawkins",
+                "x": -0.8010491265206648,
+                "y": 0.029132428715476603,
+                "cluster": 4,
+                "weight": 127,
+                "score": 55.58267716535432
+            },
+            {
+                "id": 153192,
+                "label": "Dominik Linz",
+                "x": -0.3999128183878858,
+                "y": -0.1746910980488507,
+                "cluster": 1,
+                "weight": 245,
+                "score": 24.0530612244898
+            },
+            {
+                "id": 153193,
+                "label": "Emma Tina Bisgaard Olesen",
+                "x": 0.9748841916830178,
+                "y": -0.3434374346538679,
+                "cluster": 6,
+                "weight": 11,
+                "score": 44.90909090909091
+            },
+            {
+                "id": 153194,
+                "label": "Flemming Dela",
+                "x": 0.4297049818980535,
+                "y": -0.09752010460587689,
+                "cluster": 2,
+                "weight": 344,
+                "score": 31.79360465116282
+            },
+            {
+                "id": 153195,
+                "label": "Gerrit van Hall",
+                "x": 0.28762662018604773,
+                "y": -0.23882737051429398,
+                "cluster": 5,
+                "weight": 153,
+                "score": 32.091503267973835
+            },
+            {
+                "id": 153196,
+                "label": "Gertrud Malene Hjortø",
+                "x": 0.739904448586849,
+                "y": -0.23358208310601522,
+                "cluster": 6,
+                "weight": 34,
+                "score": 9.382352941176467
+            },
+            {
+                "id": 153197,
+                "label": "Hanne Borger Rasmussen",
+                "x": -0.5658640793050128,
+                "y": -0.22688101044653608,
+                "cluster": 1,
+                "weight": 39,
+                "score": 38.00000000000001
+            },
+            {
+                "id": 153198,
+                "label": "Hannelouise Kissow",
+                "x": 0.4053526824183903,
+                "y": -0.4075722763745095,
+                "cluster": 9,
+                "weight": 43,
+                "score": 28.581395348837205
+            },
+            {
+                "id": 153199,
+                "label": "HELENA DOMINGUEZ",
+                "x": -0.2458573586645938,
+                "y": -0.25141793515792765,
+                "cluster": 3,
+                "weight": 100,
+                "score": 46.93999999999999
+            },
+            {
+                "id": 153200,
+                "label": "Helena Safavi-Hemami",
+                "x": 0.20501855594615875,
+                "y": 7.070013998789996,
+                "cluster": 10,
+                "weight": 6,
+                "score": 5.833333333333334
+            },
+            {
+                "id": 153201,
+                "label": "Henrik  El ALI",
+                "x": 0.03923436062834605,
+                "y": -0.2738459206465266,
+                "cluster": 5,
+                "weight": 23,
+                "score": 12.217391304347826
+            },
+            {
+                "id": 153202,
+                "label": "Jens Christian Brings Jacobsen",
+                "x": 0.5885258486180709,
+                "y": 0.008871007263281,
+                "cluster": 2
+            },
+            {
+                "id": 153203,
+                "label": "Jens Juul Holst",
+                "x": 0.46950365522827636,
+                "y": -0.32603273495616414,
+                "cluster": 7,
+                "weight": 1927,
+                "score": 50.51011935651276
+            },
+            {
+                "id": 153204,
+                "label": "Jens Peter Goetze",
+                "x": 0.015309729154983824,
+                "y": -0.2567941065673318,
+                "cluster": 3,
+                "weight": 165,
+                "score": 20.854545454545452
+            },
+            {
+                "id": 153205,
+                "label": "Joachim Størling",
+                "x": -0.06334450501376661,
+                "y": 0.030765744040243518,
+                "cluster": 8,
+                "weight": 60,
+                "score": 56.316666666666684
+            },
+            {
+                "id": 153206,
+                "label": "Jonas Salling Quist",
+                "x": 0.1836321373199012,
+                "y": -0.08627198616781383,
+                "cluster": 2,
+                "weight": 43,
+                "score": 12.767441860465116
+            },
+            {
+                "id": 153208,
+                "label": "Jorgen Kanters",
+                "x": -0.3113069172849379,
+                "y": -0.2332733654871438,
+                "cluster": 3,
+                "weight": 186,
+                "score": 24.241935483870975
+            },
+            {
+                "id": 153209,
+                "label": "Jørn Helge",
+                "x": 0.450474877541418,
+                "y": -0.07465056291431074,
+                "cluster": 2,
+                "weight": 284,
+                "score": 29.89084507042253
+            },
+            {
+                "id": 153210,
+                "label": "kaituo wang",
+                "x": -0.88203859509522,
+                "y": 0.00827861890842268,
+                "cluster": 4,
+                "weight": 25,
+                "score": 17.200000000000003
+            },
+            {
+                "id": 153211,
+                "label": "Klaus Qvortrup",
+                "x": 0.1441142995530771,
+                "y": -0.2361136009579356,
+                "cluster": 5,
+                "weight": 89,
+                "score": 44.20224719101124
+            },
+            {
+                "id": 153212,
+                "label": "Kristine Færch",
+                "x": 0.1689317414090653,
+                "y": -0.0918399389253953,
+                "cluster": 2,
+                "weight": 92,
+                "score": 35.16304347826088
+            },
+            {
+                "id": 153213,
+                "label": "Lijo Cherian Ozhathil",
+                "x": -0.7575776419141227,
+                "y": -0.03305872101534223,
+                "cluster": 4,
+                "weight": 16,
+                "score": 35.9375
+            },
+            {
+                "id": 153214,
+                "label": "Luke Gamon",
+                "x": -0.849732792428378,
+                "y": 0.046375057290781625,
+                "cluster": 4,
+                "weight": 29,
+                "score": 10.89655172413793
+            },
+            {
+                "id": 153215,
+                "label": "Lykke Sylow",
+                "x": 0.3016004064732795,
+                "y": -0.14703252598311775,
+                "cluster": 2,
+                "weight": 63,
+                "score": 34.06349206349208
+            },
+            {
+                "id": 153216,
+                "label": "Lærke Smidt Gasbjerg",
+                "x": 0.775019592844316,
+                "y": -0.3531695142771281,
+                "cluster": 6,
+                "weight": 60,
+                "score": 19.03333333333333
+            },
+            {
+                "id": 153217,
+                "label": "Marianne Lund",
+                "x": -0.8164305615383801,
+                "y": 0.056457911180058905,
+                "cluster": 4,
+                "weight": 135,
+                "score": 26.22962962962963
+            },
+            {
+                "id": 153218,
+                "label": "Martin Gustavsson",
+                "x": 0.9742893360970282,
+                "y": -0.3498881511930399,
+                "cluster": 6,
+                "weight": 25,
+                "score": 33.48
+            },
+            {
+                "id": 153219,
+                "label": "Mette Marie Rosenkilde",
+                "x": 0.8257912269967143,
+                "y": -0.3266410075546171,
+                "cluster": 6,
+                "weight": 248,
+                "score": 41.12096774193547
+            },
+            {
+                "id": 153220,
+                "label": "Michael Davies",
+                "x": -0.7877188988707667,
+                "y": 0.025358653044342688,
+                "cluster": 4,
+                "weight": 560,
+                "score": 57.63214285714284
+            },
+            {
+                "id": 153221,
+                "label": "Michal Marzec",
+                "x": -0.20403528443014005,
+                "y": 0.04732103588731661,
+                "cluster": 8,
+                "weight": 37,
+                "score": 61.891891891891895
+            },
+            {
+                "id": 153222,
+                "label": "Michala Prause",
+                "x": -0.1405130914080026,
+                "y": 0.06364440765937311,
+                "cluster": 8,
+                "weight": 12,
+                "score": 19.75
+            },
+            {
+                "id": 153223,
+                "label": "Morten B Thomsen",
+                "x": -0.4678885562245799,
+                "y": -0.22154065072785978,
+                "cluster": 1,
+                "weight": 50,
+                "score": 38.50000000000001
+            },
+            {
+                "id": 153224,
+                "label": "Morten Schak Nielsen",
+                "x": -0.24025992121317072,
+                "y": -0.2877634828465293,
+                "cluster": 3,
+                "weight": 58,
+                "score": 26.741379310344822
+            },
+            {
+                "id": 153225,
+                "label": "Morten Salling Olesen",
+                "x": -0.500534348958137,
+                "y": -0.229524101251891,
+                "cluster": 1,
+                "weight": 147,
+                "score": 28.149659863945583
+            },
+            {
+                "id": 153226,
+                "label": "Nicole Schmitt",
+                "x": -0.5439157472404448,
+                "y": -0.2259730651494252,
+                "cluster": 1,
+                "weight": 63,
+                "score": 42.30158730158729
+            },
+            {
+                "id": 153227,
+                "label": "Niels-Henrik Holstein-Rathlou",
+                "x": -0.17576367409603566,
+                "y": -0.32318501193011884,
+                "cluster": 3,
+                "weight": 282,
+                "score": 25.599290780141864
+            },
+            {
+                "id": 153228,
+                "label": "Nils Billestrup",
+                "x": -0.1079674379721195,
+                "y": 0.057940965938743524,
+                "cluster": 8,
+                "weight": 126,
+                "score": 44.46825396825396
+            },
+            {
+                "id": 153230,
+                "label": "Ole Hartvig Mortensen",
+                "x": 0.2199281296996385,
+                "y": -0.257244124436877,
+                "cluster": 5,
+                "weight": 43,
+                "score": 80.30232558139537
+            },
+            {
+                "id": 153231,
+                "label": "Olga Sosnovtseva",
+                "x": -0.17197560367519074,
+                "y": -0.33398321556459093,
+                "cluster": 3,
+                "weight": 121,
+                "score": 19.826446280991746
+            },
+            {
+                "id": 153232,
+                "label": "Per Hägglund",
+                "x": -0.7193549286691105,
+                "y": 0.024101877180085697,
+                "cluster": 4,
+                "weight": 88,
+                "score": 28.386363636363637
+            },
+            {
+                "id": 153233,
+                "label": "Pia Lundegaard",
+                "x": -0.5285633959897704,
+                "y": -0.2202765421546754,
+                "cluster": 1,
+                "weight": 32,
+                "score": 14.65625
+            },
+            {
+                "id": 153234,
+                "label": "Pontus Gourdon",
+                "x": -0.8637208848921648,
+                "y": 0.004087258614051581,
+                "cluster": 4,
+                "weight": 55,
+                "score": 36.85454545454546
+            },
+            {
+                "id": 153235,
+                "label": "Robert Mills",
+                "x": -0.5085320607671696,
+                "y": -0.23116095138282183,
+                "cluster": 1,
+                "weight": 18,
+                "score": 55.16666666666667
+            },
+            {
+                "id": 153236,
+                "label": "Ronan Berg",
+                "x": -0.19875757738429475,
+                "y": -0.3619586111545602,
+                "cluster": 3,
+                "weight": 114,
+                "score": 12.657894736842108
+            },
+            {
+                "id": 153237,
+                "label": "Rune Ehrenreich  Kuhre",
+                "x": 0.4900086379914671,
+                "y": -0.374532818664052,
+                "cluster": 7,
+                "weight": 25,
+                "score": 47.48
+            },
+            {
+                "id": 153238,
+                "label": "Samuel Trammell",
+                "x": 0.2859585720799459,
+                "y": -0.3313245546487444,
+                "cluster": 5,
+                "weight": 28,
+                "score": 59.60714285714285
+            },
+            {
+                "id": 153240,
+                "label": "Signe Torekov",
+                "x": 0.106175892603811,
+                "y": -0.16368717476829614,
+                "cluster": 2,
+                "weight": 68,
+                "score": 39.77941176470589
+            },
+            {
+                "id": 153241,
+                "label": "Simon Francis Thomsen",
+                "x": 0.48690435551428973,
+                "y": -0.471899233578366,
+                "cluster": 9,
+                "weight": 57,
+                "score": 5.701754385964912
+            },
+            {
+                "id": 153242,
+                "label": "Simon Veedfald",
+                "x": 0.6016286224523143,
+                "y": -0.38310295710184505,
+                "cluster": 7,
+                "weight": 11,
+                "score": 41
+            },
+            {
+                "id": 153243,
+                "label": "Siv Annegrethe Hjorth",
+                "x": 0.8506717230527648,
+                "y": -0.42209785773327785,
+                "cluster": 9,
+                "weight": 57,
+                "score": 48.66666666666666
+            },
+            {
+                "id": 153244,
+                "label": "Steen Larsen",
+                "x": 0.459005621445812,
+                "y": -0.13149293471172524,
+                "cluster": 2,
+                "weight": 101,
+                "score": 27.58415841584158
+            },
+            {
+                "id": 153245,
+                "label": "Steen Seier Poulsen",
+                "x": 0.42338716653214636,
+                "y": -0.4084660627815668,
+                "cluster": 9,
+                "weight": 281,
+                "score": 24.996441281138768
+            },
+            {
+                "id": 153246,
+                "label": "Søren-Peter Olesen",
+                "x": -0.5412481121702617,
+                "y": -0.2153920462355951,
+                "cluster": 1,
+                "weight": 179,
+                "score": 61.93854748603352
+            },
+            {
+                "id": 153247,
+                "label": "Thomas Jepps",
+                "x": -0.630948154722714,
+                "y": -0.12291869359082373,
+                "cluster": 4,
+                "weight": 40,
+                "score": 28.324999999999996
+            },
+            {
+                "id": 153248,
+                "label": "Thomas Jespersen",
+                "x": -0.4628861326374633,
+                "y": -0.18505651240959223,
+                "cluster": 1,
+                "weight": 177,
+                "score": 27.666666666666686
+            },
+            {
+                "id": 153249,
+                "label": "Thomas Mandrup-Poulsen",
+                "x": -0.1328120179222392,
+                "y": 0.031163900671745532,
+                "cluster": 8,
+                "weight": 261,
+                "score": 58.49808429118778
+            },
+            {
+                "id": 153250,
+                "label": "Thorkil Ploug",
+                "x": 0.2347398633983436,
+                "y": -0.13202188626029923,
+                "cluster": 2,
+                "weight": 107,
+                "score": 26.80373831775701
+            },
+            {
+                "id": 153252,
+                "label": "Tor Biering-Sørensen",
+                "x": -0.21555161674198875,
+                "y": -0.24359536929341583,
+                "cluster": 3,
+                "weight": 278,
+                "score": 14.11510791366907
+            },
+            {
+                "id": 153253,
+                "label": "Trisha Grevengoed",
+                "x": 0.23214523663471706,
+                "y": -0.32304935333415946,
+                "cluster": 5,
+                "weight": 21,
+                "score": 42.47619047619048
+            },
+            {
+                "id": 153254,
+                "label": "Walden Emil Bjørn-Yoshimoto",
+                "x": 0.20492228458220546,
+                "y": 7.070024698992772,
+                "cluster": 10,
+                "weight": 16,
+                "score": 27.062499999999996
+            }
+        ],
+        "links": [
+            {
+                "source_id": 153178,
+                "target_id": 153180,
+                "strength": 1
+            },
+            {
+                "source_id": 153178,
+                "target_id": 153211,
+                "strength": 3
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153183,
+                "strength": 3
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153197,
+                "strength": 1
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153201,
+                "strength": 1
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153211,
+                "strength": 1
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153220,
+                "strength": 1
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153223,
+                "strength": 3
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153224,
+                "strength": 1
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153225,
+                "strength": 5
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153226,
+                "strength": 7
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153233,
+                "strength": 4
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153235,
+                "strength": 2
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153246,
+                "strength": 8
+            },
+            {
+                "source_id": 153179,
+                "target_id": 153248,
+                "strength": 2
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153182,
+                "strength": 5
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153184,
+                "strength": 2
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153185,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153188,
+                "strength": 3
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153194,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153198,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153201,
+                "strength": 14
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153203,
+                "strength": 6
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153204,
+                "strength": 2
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153205,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153211,
+                "strength": 2
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153220,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153231,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153250,
+                "strength": 2
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153252,
+                "strength": 1
+            },
+            {
+                "source_id": 153180,
+                "target_id": 153253,
+                "strength": 1
+            },
+            {
+                "source_id": 153181,
+                "target_id": 153190,
+                "strength": 1
+            },
+            {
+                "source_id": 153181,
+                "target_id": 153196,
+                "strength": 1
+            },
+            {
+                "source_id": 153181,
+                "target_id": 153203,
+                "strength": 1
+            },
+            {
+                "source_id": 153181,
+                "target_id": 153244,
+                "strength": 1
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153188,
+                "strength": 2
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153190,
+                "strength": 1
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153194,
+                "strength": 25
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153195,
+                "strength": 5
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153203,
+                "strength": 11
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153206,
+                "strength": 12
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153209,
+                "strength": 16
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153212,
+                "strength": 1
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153219,
+                "strength": 2
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153240,
+                "strength": 3
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153244,
+                "strength": 3
+            },
+            {
+                "source_id": 153182,
+                "target_id": 153250,
+                "strength": 22
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153208,
+                "strength": 1
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153211,
+                "strength": 1
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153219,
+                "strength": 2
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153223,
+                "strength": 4
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153224,
+                "strength": 2
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153225,
+                "strength": 9
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153226,
+                "strength": 19
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153233,
+                "strength": 4
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153235,
+                "strength": 1
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153246,
+                "strength": 14
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153247,
+                "strength": 4
+            },
+            {
+                "source_id": 153183,
+                "target_id": 153248,
+                "strength": 11
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153185,
+                "strength": 36
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153186,
+                "strength": 17
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153187,
+                "strength": 4
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153188,
+                "strength": 1
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153194,
+                "strength": 12
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153195,
+                "strength": 4
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153196,
+                "strength": 1
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153198,
+                "strength": 25
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153201,
+                "strength": 1
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153203,
+                "strength": 274
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153204,
+                "strength": 1
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153205,
+                "strength": 2
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153208,
+                "strength": 2
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153209,
+                "strength": 4
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153216,
+                "strength": 35
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153219,
+                "strength": 38
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153237,
+                "strength": 17
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153238,
+                "strength": 2
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153240,
+                "strength": 6
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153242,
+                "strength": 25
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153243,
+                "strength": 1
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153244,
+                "strength": 3
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153245,
+                "strength": 24
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153249,
+                "strength": 3
+            },
+            {
+                "source_id": 153184,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153186,
+                "strength": 5
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153187,
+                "strength": 1
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153194,
+                "strength": 2
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153198,
+                "strength": 5
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153203,
+                "strength": 173
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153204,
+                "strength": 3
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153216,
+                "strength": 1
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153219,
+                "strength": 6
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153237,
+                "strength": 13
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153242,
+                "strength": 12
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153245,
+                "strength": 3
+            },
+            {
+                "source_id": 153185,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153187,
+                "strength": 3
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153198,
+                "strength": 7
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153203,
+                "strength": 89
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153205,
+                "strength": 1
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153211,
+                "strength": 2
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153219,
+                "strength": 6
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153237,
+                "strength": 5
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153238,
+                "strength": 2
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153242,
+                "strength": 1
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153243,
+                "strength": 2
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153244,
+                "strength": 1
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153245,
+                "strength": 21
+            },
+            {
+                "source_id": 153186,
+                "target_id": 153249,
+                "strength": 2
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153188,
+                "strength": 1
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153198,
+                "strength": 2
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153203,
+                "strength": 13
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153204,
+                "strength": 1
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153219,
+                "strength": 2
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153224,
+                "strength": 5
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153227,
+                "strength": 27
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153231,
+                "strength": 4
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153238,
+                "strength": 1
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153242,
+                "strength": 1
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153187,
+                "target_id": 153253,
+                "strength": 1
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153191,
+                "strength": 1
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153204,
+                "strength": 7
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153211,
+                "strength": 1
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153220,
+                "strength": 2
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153224,
+                "strength": 1
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153227,
+                "strength": 2
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153188,
+                "target_id": 153252,
+                "strength": 4
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153191,
+                "strength": 5
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153213,
+                "strength": 1
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153214,
+                "strength": 3
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153217,
+                "strength": 1
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153220,
+                "strength": 20
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153232,
+                "strength": 2
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153234,
+                "strength": 1
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153189,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153194,
+                "strength": 17
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153209,
+                "strength": 15
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153211,
+                "strength": 6
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153215,
+                "strength": 4
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153221,
+                "strength": 1
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153244,
+                "strength": 8
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153245,
+                "strength": 3
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153190,
+                "target_id": 153250,
+                "strength": 14
+            },
+            {
+                "source_id": 153191,
+                "target_id": 153214,
+                "strength": 2
+            },
+            {
+                "source_id": 153191,
+                "target_id": 153220,
+                "strength": 86
+            },
+            {
+                "source_id": 153191,
+                "target_id": 153231,
+                "strength": 1
+            },
+            {
+                "source_id": 153191,
+                "target_id": 153232,
+                "strength": 4
+            },
+            {
+                "source_id": 153191,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153192,
+                "target_id": 153194,
+                "strength": 1
+            },
+            {
+                "source_id": 153192,
+                "target_id": 153208,
+                "strength": 1
+            },
+            {
+                "source_id": 153192,
+                "target_id": 153209,
+                "strength": 1
+            },
+            {
+                "source_id": 153192,
+                "target_id": 153244,
+                "strength": 1
+            },
+            {
+                "source_id": 153192,
+                "target_id": 153248,
+                "strength": 14
+            },
+            {
+                "source_id": 153193,
+                "target_id": 153219,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153195,
+                "strength": 6
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153198,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153201,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153202,
+                "strength": 2
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153203,
+                "strength": 29
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153205,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153208,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153209,
+                "strength": 131
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153211,
+                "strength": 4
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153212,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153216,
+                "strength": 7
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153219,
+                "strength": 4
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153231,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153238,
+                "strength": 1
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153244,
+                "strength": 67
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153245,
+                "strength": 4
+            },
+            {
+                "source_id": 153194,
+                "target_id": 153250,
+                "strength": 13
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153203,
+                "strength": 17
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153204,
+                "strength": 3
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153205,
+                "strength": 1
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153209,
+                "strength": 7
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153216,
+                "strength": 2
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153219,
+                "strength": 3
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153230,
+                "strength": 2
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153242,
+                "strength": 2
+            },
+            {
+                "source_id": 153195,
+                "target_id": 153244,
+                "strength": 1
+            },
+            {
+                "source_id": 153196,
+                "target_id": 153203,
+                "strength": 1
+            },
+            {
+                "source_id": 153196,
+                "target_id": 153216,
+                "strength": 1
+            },
+            {
+                "source_id": 153196,
+                "target_id": 153219,
+                "strength": 20
+            },
+            {
+                "source_id": 153197,
+                "target_id": 153226,
+                "strength": 6
+            },
+            {
+                "source_id": 153197,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153197,
+                "target_id": 153246,
+                "strength": 20
+            },
+            {
+                "source_id": 153197,
+                "target_id": 153248,
+                "strength": 12
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153201,
+                "strength": 1
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153203,
+                "strength": 32
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153204,
+                "strength": 2
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153216,
+                "strength": 1
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153219,
+                "strength": 4
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153237,
+                "strength": 2
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153198,
+                "target_id": 153245,
+                "strength": 21
+            },
+            {
+                "source_id": 153199,
+                "target_id": 153208,
+                "strength": 2
+            },
+            {
+                "source_id": 153199,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153199,
+                "target_id": 153252,
+                "strength": 1
+            },
+            {
+                "source_id": 153200,
+                "target_id": 153254,
+                "strength": 3
+            },
+            {
+                "source_id": 153201,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153202,
+                "target_id": 153209,
+                "strength": 2
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153204,
+                "strength": 8
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153205,
+                "strength": 3
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153206,
+                "strength": 4
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153208,
+                "strength": 10
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153209,
+                "strength": 9
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153212,
+                "strength": 7
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153216,
+                "strength": 41
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153219,
+                "strength": 70
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153223,
+                "strength": 1
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153237,
+                "strength": 48
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153238,
+                "strength": 7
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153240,
+                "strength": 51
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153242,
+                "strength": 35
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153243,
+                "strength": 1
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153244,
+                "strength": 14
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153245,
+                "strength": 68
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153248,
+                "strength": 2
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153249,
+                "strength": 9
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153250,
+                "strength": 3
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153252,
+                "strength": 1
+            },
+            {
+                "source_id": 153203,
+                "target_id": 153253,
+                "strength": 1
+            },
+            {
+                "source_id": 153204,
+                "target_id": 153212,
+                "strength": 1
+            },
+            {
+                "source_id": 153204,
+                "target_id": 153219,
+                "strength": 3
+            },
+            {
+                "source_id": 153204,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153204,
+                "target_id": 153237,
+                "strength": 1
+            },
+            {
+                "source_id": 153204,
+                "target_id": 153252,
+                "strength": 1
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153206,
+                "strength": 2
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153211,
+                "strength": 1
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153212,
+                "strength": 1
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153222,
+                "strength": 5
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153228,
+                "strength": 13
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153249,
+                "strength": 28
+            },
+            {
+                "source_id": 153205,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153206,
+                "target_id": 153209,
+                "strength": 1
+            },
+            {
+                "source_id": 153206,
+                "target_id": 153212,
+                "strength": 11
+            },
+            {
+                "source_id": 153206,
+                "target_id": 153219,
+                "strength": 1
+            },
+            {
+                "source_id": 153206,
+                "target_id": 153240,
+                "strength": 4
+            },
+            {
+                "source_id": 153206,
+                "target_id": 153250,
+                "strength": 2
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153223,
+                "strength": 2
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153225,
+                "strength": 15
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153226,
+                "strength": 2
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153227,
+                "strength": 15
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153233,
+                "strength": 2
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153240,
+                "strength": 9
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153242,
+                "strength": 1
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153246,
+                "strength": 4
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153248,
+                "strength": 12
+            },
+            {
+                "source_id": 153208,
+                "target_id": 153249,
+                "strength": 3
+            },
+            {
+                "source_id": 153209,
+                "target_id": 153211,
+                "strength": 2
+            },
+            {
+                "source_id": 153209,
+                "target_id": 153238,
+                "strength": 1
+            },
+            {
+                "source_id": 153209,
+                "target_id": 153244,
+                "strength": 66
+            },
+            {
+                "source_id": 153209,
+                "target_id": 153245,
+                "strength": 3
+            },
+            {
+                "source_id": 153209,
+                "target_id": 153250,
+                "strength": 9
+            },
+            {
+                "source_id": 153210,
+                "target_id": 153234,
+                "strength": 18
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153215,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153220,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153223,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153224,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153227,
+                "strength": 4
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153228,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153230,
+                "strength": 4
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153244,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153245,
+                "strength": 4
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153246,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153250,
+                "strength": 3
+            },
+            {
+                "source_id": 153211,
+                "target_id": 153253,
+                "strength": 1
+            },
+            {
+                "source_id": 153212,
+                "target_id": 153240,
+                "strength": 4
+            },
+            {
+                "source_id": 153213,
+                "target_id": 153220,
+                "strength": 1
+            },
+            {
+                "source_id": 153213,
+                "target_id": 153232,
+                "strength": 1
+            },
+            {
+                "source_id": 153213,
+                "target_id": 153234,
+                "strength": 1
+            },
+            {
+                "source_id": 153213,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153213,
+                "target_id": 153248,
+                "strength": 2
+            },
+            {
+                "source_id": 153214,
+                "target_id": 153217,
+                "strength": 1
+            },
+            {
+                "source_id": 153214,
+                "target_id": 153220,
+                "strength": 21
+            },
+            {
+                "source_id": 153214,
+                "target_id": 153232,
+                "strength": 2
+            },
+            {
+                "source_id": 153214,
+                "target_id": 153234,
+                "strength": 1
+            },
+            {
+                "source_id": 153215,
+                "target_id": 153244,
+                "strength": 1
+            },
+            {
+                "source_id": 153215,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153216,
+                "target_id": 153219,
+                "strength": 33
+            },
+            {
+                "source_id": 153216,
+                "target_id": 153237,
+                "strength": 1
+            },
+            {
+                "source_id": 153216,
+                "target_id": 153238,
+                "strength": 1
+            },
+            {
+                "source_id": 153216,
+                "target_id": 153242,
+                "strength": 4
+            },
+            {
+                "source_id": 153216,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153217,
+                "target_id": 153220,
+                "strength": 12
+            },
+            {
+                "source_id": 153217,
+                "target_id": 153232,
+                "strength": 1
+            },
+            {
+                "source_id": 153217,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153218,
+                "target_id": 153219,
+                "strength": 1
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153237,
+                "strength": 8
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153238,
+                "strength": 1
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153242,
+                "strength": 5
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153243,
+                "strength": 2
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153245,
+                "strength": 3
+            },
+            {
+                "source_id": 153219,
+                "target_id": 153249,
+                "strength": 3
+            },
+            {
+                "source_id": 153220,
+                "target_id": 153231,
+                "strength": 1
+            },
+            {
+                "source_id": 153220,
+                "target_id": 153232,
+                "strength": 26
+            },
+            {
+                "source_id": 153220,
+                "target_id": 153234,
+                "strength": 2
+            },
+            {
+                "source_id": 153220,
+                "target_id": 153247,
+                "strength": 3
+            },
+            {
+                "source_id": 153220,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153220,
+                "target_id": 153249,
+                "strength": 3
+            },
+            {
+                "source_id": 153221,
+                "target_id": 153222,
+                "strength": 1
+            },
+            {
+                "source_id": 153221,
+                "target_id": 153232,
+                "strength": 1
+            },
+            {
+                "source_id": 153221,
+                "target_id": 153249,
+                "strength": 5
+            },
+            {
+                "source_id": 153222,
+                "target_id": 153228,
+                "strength": 5
+            },
+            {
+                "source_id": 153222,
+                "target_id": 153249,
+                "strength": 7
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153224,
+                "strength": 1
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153225,
+                "strength": 3
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153226,
+                "strength": 1
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153233,
+                "strength": 2
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153235,
+                "strength": 1
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153246,
+                "strength": 5
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153248,
+                "strength": 2
+            },
+            {
+                "source_id": 153223,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153224,
+                "target_id": 153226,
+                "strength": 2
+            },
+            {
+                "source_id": 153224,
+                "target_id": 153227,
+                "strength": 17
+            },
+            {
+                "source_id": 153224,
+                "target_id": 153246,
+                "strength": 2
+            },
+            {
+                "source_id": 153224,
+                "target_id": 153248,
+                "strength": 3
+            },
+            {
+                "source_id": 153224,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153226,
+                "strength": 21
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153227,
+                "strength": 3
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153233,
+                "strength": 12
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153235,
+                "strength": 1
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153246,
+                "strength": 15
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153248,
+                "strength": 11
+            },
+            {
+                "source_id": 153225,
+                "target_id": 153252,
+                "strength": 1
+            },
+            {
+                "source_id": 153226,
+                "target_id": 153227,
+                "strength": 1
+            },
+            {
+                "source_id": 153226,
+                "target_id": 153233,
+                "strength": 2
+            },
+            {
+                "source_id": 153226,
+                "target_id": 153246,
+                "strength": 29
+            },
+            {
+                "source_id": 153226,
+                "target_id": 153247,
+                "strength": 3
+            },
+            {
+                "source_id": 153226,
+                "target_id": 153248,
+                "strength": 6
+            },
+            {
+                "source_id": 153227,
+                "target_id": 153231,
+                "strength": 32
+            },
+            {
+                "source_id": 153227,
+                "target_id": 153236,
+                "strength": 6
+            },
+            {
+                "source_id": 153227,
+                "target_id": 153245,
+                "strength": 2
+            },
+            {
+                "source_id": 153227,
+                "target_id": 153246,
+                "strength": 2
+            },
+            {
+                "source_id": 153227,
+                "target_id": 153248,
+                "strength": 3
+            },
+            {
+                "source_id": 153227,
+                "target_id": 153250,
+                "strength": 2
+            },
+            {
+                "source_id": 153228,
+                "target_id": 153249,
+                "strength": 31
+            },
+            {
+                "source_id": 153228,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153230,
+                "target_id": 153245,
+                "strength": 2
+            },
+            {
+                "source_id": 153232,
+                "target_id": 153234,
+                "strength": 2
+            },
+            {
+                "source_id": 153232,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153232,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153233,
+                "target_id": 153235,
+                "strength": 1
+            },
+            {
+                "source_id": 153233,
+                "target_id": 153246,
+                "strength": 3
+            },
+            {
+                "source_id": 153233,
+                "target_id": 153247,
+                "strength": 2
+            },
+            {
+                "source_id": 153233,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153234,
+                "target_id": 153247,
+                "strength": 1
+            },
+            {
+                "source_id": 153234,
+                "target_id": 153248,
+                "strength": 1
+            },
+            {
+                "source_id": 153237,
+                "target_id": 153238,
+                "strength": 5
+            },
+            {
+                "source_id": 153237,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153237,
+                "target_id": 153242,
+                "strength": 2
+            },
+            {
+                "source_id": 153237,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153237,
+                "target_id": 153249,
+                "strength": 3
+            },
+            {
+                "source_id": 153238,
+                "target_id": 153240,
+                "strength": 1
+            },
+            {
+                "source_id": 153238,
+                "target_id": 153244,
+                "strength": 2
+            },
+            {
+                "source_id": 153238,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153238,
+                "target_id": 153253,
+                "strength": 4
+            },
+            {
+                "source_id": 153240,
+                "target_id": 153242,
+                "strength": 2
+            },
+            {
+                "source_id": 153240,
+                "target_id": 153248,
+                "strength": 2
+            },
+            {
+                "source_id": 153240,
+                "target_id": 153249,
+                "strength": 3
+            },
+            {
+                "source_id": 153241,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153242,
+                "target_id": 153249,
+                "strength": 1
+            },
+            {
+                "source_id": 153244,
+                "target_id": 153245,
+                "strength": 1
+            },
+            {
+                "source_id": 153244,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153245,
+                "target_id": 153249,
+                "strength": 2
+            },
+            {
+                "source_id": 153245,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153246,
+                "target_id": 153247,
+                "strength": 7
+            },
+            {
+                "source_id": 153246,
+                "target_id": 153248,
+                "strength": 36
+            },
+            {
+                "source_id": 153247,
+                "target_id": 153248,
+                "strength": 2
+            },
+            {
+                "source_id": 153248,
+                "target_id": 153249,
+                "strength": 2
+            },
+            {
+                "source_id": 153248,
+                "target_id": 153250,
+                "strength": 1
+            },
+            {
+                "source_id": 153248,
+                "target_id": 153252,
+                "strength": 7
+            },
+            {
+                "source_id": 153249,
+                "target_id": 153250,
+                "strength": 2
+            }
+        ]
+    }
+}
